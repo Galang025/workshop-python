@@ -1,0 +1,4 @@
+[ZoneTransfer]
+ZoneId=3
+ReferrerUrl=http://127.0.0.1:8888/notebooks/Worksho-Python-Bab-4.ipynb
+HostUrl=http://127.0.0.1:8888/nbconvert/script/Worksho-Python-Bab-4.ipynb?download=true
